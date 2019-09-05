@@ -7,12 +7,14 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
+#### 09/20/2019 - WGANs and Other Models (Part 02)
+#### 09/13/2019 - Introduction to GANs (Part 01)
 #### 09/06/2019 - Karl Friston's Free Energy Principle
 #### 08/30/2019 - Calibration of NN models
 #### 08/23/2019 - Model Interpretability
 #### 08/16/2019 - Summary of DLRL Summer School 2019
-#### 08/09/2019 - Variational Autoencoders - (Part 02)
-#### 08/02/2019 - Variational Autoencoders - (Part 01)
+#### 08/09/2019 - Variational Autoencoders (Part 02)
+#### 08/02/2019 - Variational Autoencoders (Part 01)
 #### 07/26/2019 - Attention in Deep Learning Models (Part 02)
 #### 07/19/2019 - Attention in Deep Learning Models (Part 01)
 #### 07/12/2019 - NLP successes of 2018: Transfer Learning

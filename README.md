@@ -7,6 +7,7 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
+#### List of topics discussed so far 
 + 09/20/2019 - WGANs and Other Models (Part 02)
 + 09/13/2019 - Introduction to GANs (Part 01)
 + 09/06/2019 - Karl Friston's Free Energy Principle

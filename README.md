@@ -9,7 +9,7 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 
 #### 09/06/2019 - Karl Friston's Free Energy Principle
 #### 08/30/2019 - Calibration of NN models
-#### 08/23/2019 - 
+#### 08/23/2019 - Model Interpretability
 #### 08/16/2019 - Summary of DLRL Summer School 2019
 #### 08/09/2019 - Variational Autoencoders - (Part 02)
 #### 08/02/2019 - Variational Autoencoders - (Part 01)

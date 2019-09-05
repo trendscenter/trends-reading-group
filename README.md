@@ -11,5 +11,8 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 #### 08/30/2019 - Calibration of NN models
 #### 08/23/2019 - 
 #### 08/16/2019 - Summary of DLRL Summer School 2019
-#### 08/09/2019 - Variational Autoencoders - Part 02
-#### 08/02/2019 - Variational Autoencoders - Part 01
+#### 08/09/2019 - Variational Autoencoders - (Part 02)
+#### 08/02/2019 - Variational Autoencoders - (Part 01)
+#### 07/26/2019 - Attention in Deep Learning Models (Part 02)
+#### 07/19/2019 - Attention in Deep Learning Models (Part 01)
+#### 07/12/2019 - NLP successes of 2018: Transfer Learning

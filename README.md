@@ -8,9 +8,9 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
 #### List of topics discussed so far 
-+ 09/20/2019 - WGANs and Other Models (Part 02)
-+ 09/13/2019 - Introduction to GANs (Part 01)
-+ 09/06/2019 - Karl Friston's Free Energy Principle
++ 09/20/2019 - Introduction to GANs
++ 09/13/2019 - Karl Friston's FEP continued (Part 02)
++ 09/06/2019 - Karl Friston's Free Energy Principle (Part 01)
 + 08/30/2019 - Calibration of NN models
 + 08/23/2019 - Model Interpretability
 + 08/16/2019 - Summary of DLRL Summer School 2019

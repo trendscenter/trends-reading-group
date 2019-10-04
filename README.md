@@ -7,7 +7,19 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
+#### Next Meeting
++ 10/11/2019 - Neural ODEs
+
+#### Upcoming Meetings (in no particular order)
++ Normalizing Flows
++ Time Varying Neural Networks
++ Contemporary Ethical Issues in Data Science/Neuroimaging
++ Information Theory for Deep Learning
++ Word Embeddings (Word2Vec, GloVe, etc.)
+
 #### List of topics discussed so far 
++ 10/04/2019 - Model (F)utility
++ 09/27/2019 - Wasserstein GANs
 + 09/20/2019 - Introduction to GANs
 + 09/13/2019 - Karl Friston's FEP continued (Part 02)
 + 09/06/2019 - Karl Friston's Free Energy Principle (Part 01)

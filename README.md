@@ -8,7 +8,7 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
 #### Next Meeting
-+ 10/11/2019 - Neural ODEs
++ 10/18/2019 - Hidden Stratification
 
 #### Upcoming Meetings (in no particular order)
 + Normalizing Flows
@@ -18,6 +18,7 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + Word Embeddings (Word2Vec, GloVe, etc.)
 
 #### List of topics discussed so far 
++ 10/11/2019 - Neural ODEs (NODE)
 + 10/04/2019 - Model (F)utility
 + 09/27/2019 - Wasserstein GANs
 + 09/20/2019 - Introduction to GANs

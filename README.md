@@ -8,16 +8,23 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
 #### Next Meeting
-+ 10/18/2019 - Hidden Stratification
++ 11/01/2019 - SPIRAL (Reinforced Adversarial Learning)
 
-#### Upcoming Meetings (in no particular order)
+#### Upcoming Meetings (subject to change)
+11/15/2019 – Nonlinear Dimensionality Reduction methods and a generalization
+11/22/2019 – “Function Approximation with Neural Networks”
+11/29/2019 – Meta-learning for neuroimaging
+12/06/2019 – What you wanted to know about ICA but were afraid to ask
+
 + Normalizing Flows
 + Time Varying Neural Networks
 + Contemporary Ethical Issues in Data Science/Neuroimaging
 + Information Theory for Deep Learning
 + Word Embeddings (Word2Vec, GloVe, etc.)
 
-#### List of topics discussed so far 
+#### List of topics discussed so far
++ 10/25/2019 - Deep Q-Network
++ 10/18/2019 - Hidden Stratification 
 + 10/11/2019 - Neural ODEs (NODE)
 + 10/04/2019 - Model (F)utility
 + 09/27/2019 - Wasserstein GANs

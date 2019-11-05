@@ -8,10 +8,9 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
 #### Next Meeting
-+ 11/01/2019 - SPIRAL (Reinforced Adversarial Learning)
++ 11/15/2019 - Nonlinear Dimensionality Reduction methods and a generalization
 
 #### Upcoming Meetings (subject to change)
-11/15/2019 – Nonlinear Dimensionality Reduction methods and a generalization
 11/22/2019 – “Function Approximation with Neural Networks”
 11/29/2019 – Meta-learning for neuroimaging
 12/06/2019 – What you wanted to know about ICA but were afraid to ask
@@ -23,6 +22,7 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + Word Embeddings (Word2Vec, GloVe, etc.)
 
 #### List of topics discussed so far
++ 11/01/2019 - SPIRAL (Reinforced Adversarial Learning)
 + 10/25/2019 - Deep Q-Network
 + 10/18/2019 - Hidden Stratification 
 + 10/11/2019 - Neural ODEs (NODE)

@@ -41,3 +41,5 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + 07/26/2019 - Attention in Deep Learning Models (Part 02)
 + 07/19/2019 - Attention in Deep Learning Models (Part 01)
 + 07/12/2019 - NLP successes of 2018: Transfer Learning
+
+Note: Folders organized as TRG-yyyymmdd-topic

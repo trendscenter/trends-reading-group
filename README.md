@@ -11,6 +11,7 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + 01/31/2020 - SINDy
 
 #### Upcoming Meetings (subject to change)
++ 02/07/2020 - Dynamics of learning in Deep Neural Networks
 + Meta-learning for neuroimaging
 + What you wanted to know about ICA but were afraid to ask
 + Normalizing Flows
@@ -23,6 +24,8 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + 01/24/2020 - Neural Networks in System Identification
 + 01/17/2020 - Hidden Markov Models (not discussed)
 + 01/10/2020 - Reading group Planning for year 2020
++ 12/13/2019 - Semi-supervised Representation Learning for Understanding Brain Dynamics
++ 12/06/2019 - Demystifying Math behind Neural ODEs
 + 11/22/2019 - Nonlinear Dimensionality Reduction Techniques
 + 11/01/2019 - SPIRAL (Reinforced Adversarial Learning)
 + 10/25/2019 - Deep Q-Network

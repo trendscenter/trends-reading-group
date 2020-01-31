@@ -8,10 +8,9 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
 #### Next Meeting
-+ 01/31/2020 - SINDy
++ 02/07/2020 - Dynamics of Learning in DNN
 
 #### Upcoming Meetings (subject to change)
-+ 02/07/2020 - Dynamics of learning in Deep Neural Networks
 + Meta-learning for neuroimaging
 + What you wanted to know about ICA but were afraid to ask
 + Normalizing Flows
@@ -21,6 +20,7 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + Word Embeddings (Word2Vec, GloVe, etc.)
 
 #### List of topics discussed so far
++ 01/31/2020 - SINDy
 + 01/24/2020 - Neural Networks in System Identification
 + 01/17/2020 - Hidden Markov Models (not discussed)
 + 01/10/2020 - Reading group Planning for year 2020

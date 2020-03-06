@@ -22,8 +22,8 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 #### List of topics discussed so far
 + 03/13/2020 - ???
 + 03/06/2020 - Sanity Checks for Saliency Maps
-+ 02/28/2020 - 
-+ 02/21/2020 - 
++ 02/28/2020 - Complexity Control by Gradient Descent in Deep Networks
++ 02/21/2020 - Dynamics of Learning in DNN (conclusion)
 + 02/14/2020 - Dynamics of Learning in DNN (cont.)
 + 02/07/2020 - Dynamics of Learning in DNN
 + 01/31/2020 - SINDy

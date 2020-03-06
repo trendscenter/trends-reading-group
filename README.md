@@ -8,7 +8,7 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
 #### Next Meeting
-+ 02/07/2020 - Dynamics of Learning in DNN
++ 03/13/2020 - ???
 
 #### Upcoming Meetings (subject to change)
 + Meta-learning for neuroimaging
@@ -20,6 +20,12 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + Word Embeddings (Word2Vec, GloVe, etc.)
 
 #### List of topics discussed so far
++ 03/13/2020 - ???
++ 03/06/2020 - Sanity Checks for Saliency Maps
++ 02/28/2020 - 
++ 02/21/2020 - 
++ 02/14/2020 - Dynamics of Learning in DNN (cont.)
++ 02/07/2020 - Dynamics of Learning in DNN
 + 01/31/2020 - SINDy
 + 01/24/2020 - Neural Networks in System Identification
 + 01/17/2020 - Hidden Markov Models (not discussed)

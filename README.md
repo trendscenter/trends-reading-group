@@ -8,7 +8,7 @@ A brown-bag (bring your own lunch) reading club at Trends Center held mainly for
 Please sign up for the mailing list or, if you’re a part of the TReNDS center, join the #reading_group channel on slack at trendscenter.slack.com
 
 #### Next Meeting
-+ 03/13/2020 - ???
++ 04/17/2020 - Testing with Concept Activation Vectors (TCAV)
 
 #### Upcoming Meetings (subject to change)
 + Meta-learning for neuroimaging
@@ -20,7 +20,7 @@ Please sign up for the mailing list or, if you’re a part of the TReNDS center,
 + Word Embeddings (Word2Vec, GloVe, etc.)
 
 #### List of topics discussed so far
-+ 03/13/2020 - ???
++ 04/10/2020 - Gradient Surgey for Multi-task Learning
 + 03/06/2020 - Sanity Checks for Saliency Maps
 + 02/28/2020 - Complexity Control by Gradient Descent in Deep Networks
 + 02/21/2020 - Dynamics of Learning in DNN (conclusion)
